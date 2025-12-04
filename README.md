@@ -45,7 +45,13 @@ Acredito que cada linha de código, pipeline e camada de segurança é uma oport
 </div>
 
 ###
+###
 
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21tazVwaGpkZmtlc3Rzbnprczh4NmJkbXc3dm5kMzlrdTc2b3p5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q2W4hziDOyzu0/giphy.gif"  />
+</div>
+
+###
 
 
 
