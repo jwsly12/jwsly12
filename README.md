@@ -1,6 +1,4 @@
-# John-Wesley
-
-## 💻 Sobre mim  
+# 💻 Sobre mim  
 Sou apaixonado por tecnologia e especializado em **DevOps**, **Cibersegurança** e **Desenvolvimento de Software**.  
 Busco constantemente aprimorar minhas habilidades, explorar novas ferramentas e entregar soluções eficientes, seguras e escaláveis.  
 Acredito que cada linha de código, pipeline e camada de segurança é uma oportunidade de criar tecnologia com propósito.
