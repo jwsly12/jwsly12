@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=200&lines=root@guest:~$+ssh+jwsly12@github;Connecting+to+server...;Access+Granted!;Hi,+my+name+is+Wesley!;Welcome+to+my+profile.;System+status:+Online+and+ready." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=70&lines=root@guest:~$+ssh+jwsly12@github;Connecting+to+server...;Access+Granted!;Hi,+my+name+is+Wesley!;Welcome+to+my+profile.;System+status:+Online+and+ready." />
 </div>
 
 # 💻 Sobre mim  
