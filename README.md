@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=200&lines=root@guest:~$+ssh+jwsly12@github;Connecting+to+server...;Access+Granted!;Hi,+my+name+is+Wesley!;Welcome+to+my+profile.;System+status:+Online+and+ready." />
+</div>
+
 # 💻 Sobre mim  
 Sou apaixonado por tecnologia e especializado em **DevOps**, **Cibersegurança** e **Desenvolvimento de Software**.  
 Busco constantemente aprimorar minhas habilidades, explorar novas ferramentas e entregar soluções eficientes, seguras e escaláveis.  
