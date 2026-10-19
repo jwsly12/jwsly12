@@ -9,7 +9,7 @@
 
 <br>
 
-> 🤖 Sou movido pela curiosidade tecnológica e especializado na convergência entre **infraestrutura, segurança, código e dados**. Busco constantemente aprimorar minhas habilidades, desbravar arquiteturas complexas e entregar soluções eficientes, seguras e escaláveis.
+> ☕ Sou movido pela curiosidade tecnológica e especializado na convergência entre **infraestrutura, segurança, código e dados**. Busco constantemente aprimorar minhas habilidades, desbravar arquiteturas complexas e entregar soluções eficientes, seguras e escaláveis.
 >
 > Acredito que cada linha de código, pipeline automatizado, modelo preditivo e camada de proteção é uma oportunidade de construir tecnologia com propósito e impacto real.
 
