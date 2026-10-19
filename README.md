@@ -71,7 +71,7 @@ Acredito que cada linha de código, pipeline e camada de segurança é uma oport
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nano/nano-original.svg" height="40" alt="windows8 logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" height="40" alt="windows8 logo />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" height="40" alt="windows8 logo />
 </div>
 
 
