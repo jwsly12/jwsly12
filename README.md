@@ -2,33 +2,69 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=50&lines=root@guest:~$+ssh+jwsly12@github;Connecting+to+server...;Access+Granted!;Hi,+my+name+is+Wesley!;Welcome+to+my+profile.;System+status:+Online+and+ready." />
 </div>
 
-# 💻 Sobre mim  
-Sou apaixonado por tecnologia e especializado em **DevOps**, **Cibersegurança** e **Desenvolvimento de Software**.  
-Busco constantemente aprimorar minhas habilidades, explorar novas ferramentas e entregar soluções eficientes, seguras e escaláveis.  
-Acredito que cada linha de código, pipeline e camada de segurança é uma oportunidade de criar tecnologia com propósito.
+<div align="center">
+  <h2>💻 Sobre mim</h2>
+  <p><i>DevOps • Cibersegurança • Engenharia de Software • Inteligência Artificial</i></p>
+</div>
 
----
+<blockquote>
+  <p align="center">
+    Sou movido pela curiosidade tecnológica e especializado na convergência entre <b>infraestrutura, segurança, código e dados</b>. Busco constantemente aprimorar minhas habilidades, desbravar arquiteturas complexas e entregar soluções eficientes, seguras e escaláveis. Acredito que cada linha de código, pipeline automatizado, modelo preditivo e camada de proteção é uma oportunidade de construir tecnologia com propósito e impacto real.
+  </p>
+</blockquote>
 
-## 🚀 Áreas de Atuação  
+<br>
 
-### **DevOps**  
-- Automação de processos e pipelines CI/CD  
-- Monitoramento, observabilidade e confiabilidade  
-- Infraestrutura como Código (IaC)  
-- Contêineres, orquestração e ambientes escaláveis  
+<h2 align="center">🚀 Minhas Áreas de Atuação</h2>
 
-### **Cybersecurity**  
-- Análise de vulnerabilidades e pentesting básico  
-- Hardening de sistemas e aplicação de boas práticas  
-- Monitoramento e resposta a incidentes  
-- Segurança em nuvem e aplicações  
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ DevOps</h3>
+      <ul>
+        <li>Automação de fluxos e construção de pipelines <b>CI/CD</b> robustos.</li>
+        <li>Monitoramento avançado, observabilidade e <b>SRE</b>.</li>
+        <li><b>IaC</b> (Infraestrutura como Código) e provisionamento ágil.</li>
+        <li>Orquestração de contêineres e gestão de ambientes escaláveis.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Cibersegurança</h3>
+      <ul>
+        <li>Análise de vulnerabilidades, engenharia reversa e testes de intrusão.</li>
+        <li><b>Hardening</b> de infraestruturas e <i>Security by Design</i>.</li>
+        <li>Monitoramento proativo, defesa de perímetro e resposta a incidentes.</li>
+        <li>Segurança aplicada a ambientes Cloud, OS e aplicações.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👨‍💻 Programação</h3>
+      <ul>
+        <li>Desenvolvimento backend, arquitetura de sistemas e <b>microsserviços</b>.</li>
+        <li>Criação de scripts, linguagens de baixo nível e otimização de performance.</li>
+        <li>Integração de APIs e automação de processos complexos.</li>
+        <li>Código limpo, <i>design patterns</i> e boas práticas de engenharia.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Inteligência Artificial</h3>
+      <ul>
+        <li>Treinamento e integração de modelos de <b>Machine Learning</b>.</li>
+        <li>Integração de <b>LLMs</b> para automação e produtividade corporativa.</li>
+        <li>Estatística aplicada e análise exploratória de dados.</li>
+        <li>Desenvolvimento de soluções preditivas orientadas a dados.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### **Programação**  
-- Desenvolvimento de scripts e automações  
-- Criação de aplicações para resolver problemas reais  
-- Integração de sistemas e otimização de processos  
-- Código limpo e boas práticas de desenvolvimento  
+<br>
 
+<div align="center">
+  <i>"Transformando lógica, segurança e dados em soluções inovadoras."</i>
+</div>
 ---
 
 # 🛠️ Tecnologias que utilizo:
