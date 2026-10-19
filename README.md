@@ -83,13 +83,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" title="React" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" width="30" title="Composer" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" width="30" title="Podman" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30" title="NextJS" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" title="Figma" />
-  <br><br>
   <i>⚡ Transformando lógica, segurança e dados em soluções de alto impacto.</i>
 </div>
 
