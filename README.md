@@ -5,10 +5,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,115,22,236,211,44&height=180&section=header&text=💻%20Sobre%20mim&fontSize=42&animation=twinkling" width="100%" alt="Banner" />
 
-<a href="https://github.com/jwsly12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22ECD3&center=true&vCenter=true&width=550&lines=DevOps+•+Cibersegurança;Engenharia+de+Software;Inteligência+Artificial;Construindo+o+futuro+com+código+e+dados" alt="Typing SVG" />
-</a>
-
 </div>
 
 <br>
