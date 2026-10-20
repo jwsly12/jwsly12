@@ -149,6 +149,9 @@
   <a href="https://www.linkedin.com/in/john-wsly" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+    <a href="https://jwsly-page.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-jwsly--page-00FF41?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
 </div>
 
 ###
