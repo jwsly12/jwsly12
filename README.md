@@ -141,7 +141,7 @@
 
 ###
 
-## My Social Media
+## My Social Medias
 ###
 
 <div align="left">
