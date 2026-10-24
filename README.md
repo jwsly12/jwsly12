@@ -152,8 +152,11 @@
     <img src="https://img.shields.io/badge/Portfolio-jwsly--page-00FF41?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
       <a href="https://app.hackthebox.com/public/users/1890267">
-      <img src="https://img.shields.io/badge/HackTheBox-Ghost_Operator-ff6600?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=0d1117" alt="Hack The Box Profile" />
-    </a>
+      <img src="https://img.shields.io/badge/HackTheBox-ForDevs-ff6600?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=0d1117" alt="Hack The Box Profile" />
+      </a>
+  <a href="https://medium.com/@F0r_D3vs" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/Medium-%40F0r_D3vs-000000?style=for-the-badge&logo=Medium&logoColor=ffffff&labelColor=0d1117" alt="Medium Profile" />
+  </a>
 </div>
 
 ###
