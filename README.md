@@ -25,19 +25,6 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ DevOps</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/CI%2FCD-Pipeline-58a6ff?style=for-the-badge&logo=githubactions&logoColor=white" />
-        <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-      </p>
-      <ul>
-        <li>Automação de fluxos e construção de pipelines <b>CI/CD</b> robustos</li>
-        <li>Monitoramento avançado, observabilidade e <b>SRE</b></li>
-        <li><b>IaC</b> (Infraestrutura como Código) e provisionamento ágil</li>
-        <li>Orquestração de contêineres e gestão de ambientes escaláveis</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">🛡️ Cibersegurança</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Security-SecOps-f7786b?style=for-the-badge" />
@@ -50,8 +37,6 @@
         <li>Segurança aplicada a ambientes Cloud, OS e aplicações</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">👨‍💻 Programação</h3>
       <p align="center">
@@ -65,18 +50,23 @@
         <li>Código limpo, <i>design patterns</i> e boas práticas de engenharia</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Inteligência Artificial</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI-Machine%20Learning-ff55ff?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/LLMs-Integra%C3%A7%C3%A3o-purple?style=for-the-badge" />
-      </p>
-      <ul>
-        <li>Treinamento e integração de modelos de <b>Machine Learning</b></li>
-        <li>Integração de <b>LLMs</b> para automação e produtividade corporativa</li>
-        <li>Estatística aplicada e análise exploratória de dados</li>
-        <li>Desenvolvimento de soluções preditivas orientadas a dados</li>
-      </ul>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br>
+      <div style="display: inline-block; text-align: left; max-width: 800px;">
+        <h3 align="center">🧠 Inteligência Artificial</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/AI-Machine%20Learning-ff55ff?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/LLMs-Integra%C3%A7%C3%A3o-purple?style=for-the-badge" />
+        </p>
+        <ul>
+          <li>Treinamento e integração de modelos de <b>Machine Learning</b></li>
+          <li>Integração de <b>LLMs</b> para automação e produtividade corporativa</li>
+          <li>Estatística aplicada e análise exploratória de dados</li>
+          <li>Desenvolvimento de soluções preditivas orientadas a dados</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
